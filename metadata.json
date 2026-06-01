@@ -1,0 +1,6 @@
+{
+  "name": "Alvi's",
+  "description": "A cinematic, premium e-commerce clothing brand storefront representing the Old Money luxury aesthetic and legacy tailoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
